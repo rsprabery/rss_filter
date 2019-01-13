@@ -1,0 +1,9 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+rss_filter
+rss_filter.json
+rss_filter.log
+rss_filter_waiting.json

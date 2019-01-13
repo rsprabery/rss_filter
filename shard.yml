@@ -1,0 +1,15 @@
+name: rss_filter
+version: 0.1.0
+
+authors:
+  - Read Sprabery <rsprabery@users.noreply.github.com>
+
+targets:
+  rss_filter:
+    main: src/rss_filter.cr
+
+crystal: 0.27.0
+
+license: MIT
+
+main: src/rss_filter.cr
